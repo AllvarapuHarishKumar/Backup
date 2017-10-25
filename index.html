@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function populate(s1,s2){
+	var s1 = document.getElementById(s1);
+	var s2 = document.getElementById(s2);
+	s2.innerHTML = "";
+	if(s1.value == "A"){
+		var optionArray = ["|","B|B","C|C","D|D"];
+	} else if(s1.value == "Dodge"){
+		var optionArray = ["|","A|A","C|C","D|D"];
+	} else if(s1.value == "Ford"){
+		var optionArray = ["|","A|A","B|B"];
+	}
+	for(var option in optionArray){
+		var pair = optionArray[option].split("|");
+		var newOption = document.createElement("option");
+		newOption.value = pair[0];
+		newOption.innerHTML = pair[1];
+		s2.options.add(newOption);
+	}
+}
+</script>
+</head>
+<body>
+<h2Welcome</h2>
+<hr />
+Choose one:
+<select id="slct1" name="slct1" onchange="populate(this.id,'slct2')">
+  <option value=""></option>
+  <option value="A">A</option>
+  <option value="Dodge">B</option>
+  <option value="Ford">C</option>
+</select>
+<hr />
+Select another:
+<select id="slct2" name="slct2"></select>
+<hr />
+</body>
+</html>	

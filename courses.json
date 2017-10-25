@@ -1,0 +1,1196 @@
+[
+{
+"CourseName": "Angular: Getting Started",
+"CourseDuration":"5h 40m",
+"CourseType": "Beginner",
+"CourseCost":"3000",
+"CourseContent":"Whether you are new to Angular or new to Angular, if you want to create great web apps and stay up to date on the latest app development technologies, you\'re going to want to come up to speed quickly with Angular\'s components, templates, and services. This course provides the basics you need to get started building an Angular application. First, you\'ll learn how to set up your environment, learning about components, templates, and data binding and how they work together. Next, you\'ll discover how to build clean components with strongly-typed code, as	 well as building nested components and how to use dependency injection to inject the services you build. Finally, you\'ll cover how to retrieve data using HTTP, navigation and routing, and you\'ll revisit the Angular setup process. By the end of this course, you\'ll be up to date on all the latest Angular knowledge and you\'ll be able to use Angular to create great apps in the future.",
+"CourseCapacity":"32",
+"ProviderId":"1",
+"TagId":"4"
+},
+{
+"CourseName":"Python: Getting Started",
+"CourseDuration":"2h 59m",
+"CourseType":"Beginner",
+"CourseCost":"2590",
+"CourseContent":"Whether you are new to Angular or new to Angular, if you want to create great web apps and stay up to date on the latest app development technologies, you\'re going to want to come up to speed quickly with Angular\'s components, templates, and services. This course provides the basics you need to get started building an Angular application. First, you\'ll learn how to set up your environment, learning about components, templates, and data binding and how they work together. Next, you\'ll discover how to build clean components with strongly-typed code, as well as building nested components and how to use dependency injection to inject the services you build. Finally, you\'ll cover how to retrieve data using HTTP, navigation and routing, and you\'ll revisit the Angular setup process. By the end of this course, you\'ll be up to date on all the latest Angular knowledge and you\'ll be able to use Angular to create great apps in the future.",
+"CourseCapacity":"60",
+"ProviderId":"2",
+"TagId":"24"
+},
+{
+"CourseName":"iOS and android Auto Layout: Adaptive UIs for All Devices",
+"CourseDuration":"5h 50m",
+"CourseType":"Intermediate",
+"CourseCost":"5500",
+"CourseContent":"Whether you are new to Angular or new to Angular, if you want to create great web apps and stay up to date on the latest app development technologies, you\'re going to want to come up to speed quickly with Angular\'s components, templates, and services. This course provides the basics you need to get started building an Angular application. First, you\'ll learn how to set up your environment, learning about components, templates, and data binding and how they work together. Next, you\'ll discover how to build clean components with strongly-typed code, as well as building nested components and how to use dependency injection to inject the services you build. Finally, you\'ll cover how to retrieve data using HTTP, navigation and routing, and you\'ll revisit the Angular setup process. By the end of this course, you\'ll be up to date on all the latest Angular knowledge and you\'ll be able to use Angular to create great apps in the future.",
+"CourseCapacity":"40",
+"ProviderId":"1",
+"TagId":"5"
+},
+
+{
+"CourseName":"Angular: First Look",
+"CourseDuration":"4h 31m",
+"CourseType":"Intermediate",
+"CourseCost":"4310",
+"CourseContent":"This course is a gentle introduction to the changes that Angular 2 brings, how they compare to Angular 1, and provides an understanding of the architecture and how the core concepts work together to build applications. You will learn how your Angular 1 skills translate and prepare you to build Angular 2 applications. Code samples focus on specific features including Angular 2 components, templates directives, data binding syntax, modules, dependency injection, routing, Http, pipes, and services. All samples are written in TypeScript and run live on the web where you can see and edit them with a click of a button; no setup required.",
+"CourseCapacity":"60",
+"ProviderId":"4",
+"TagId":"4"
+},
+
+{
+"CourseName":"Become a Full-stack .NET Developer",
+"CourseDuration":"2h 30m",
+"CourseType":"Intermediate",
+"CourseCost":"2300",
+"CourseContent":"Whether you\'re a junior developer and want to learn a systematic approach to build applications, or you\'re more experienced and want to strengthen your front-end and/or back-end development skills, this course is for you. In this hands-on course, Become a Full-stack .NET Developer, you will be part of building a real-world mini social network. You will learn how to start with a plain requirements document, break it down into tasks, and build the entire application end-to-end in an agile way. Youâ€™ll make design decisions along the way, refactor code and build a clean decoupled and testable architecture. You\'ll learn all kinds of tools and techniques involving ASP.NET MVC, Web API, Entity Framework Code First, Bootstrap3, HTML5, CSS3, refactoring, clean coding, clean architecture and dependency injection: in other words, the tools and techniques needed by every full-stack .NET developer. By the end of this course, you\'ll have the knowledge and skills necessary to take you one step closer to being a full-stack .NET developer.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"8"
+},
+
+{
+"CourseName":"Angular Fundamentals",
+"CourseDuration":"1h 30m",
+"CourseType":"Beginner",
+"CourseCost":"1300",
+"CourseContent":"Angular has become one of the most widely used web development frameworks. Angular 2 marked a significant change in the way we write applications with Angular. This course, Angular Fundamentals, will teach you the fundamentals of writing applications with Angular 2 - whether or not you\'ve had past experience with with Angular 1. You will learn how to bootstrap an application and how to build pages and reusable elements using Angular Components and the new Angular syntax. You\'ll also learn the fundamentals of: routing, creating reusable services and dependency injection, building forms with validation, and communicating with the server using HTTP and observables. You\'ll even learn how to test all of this using unit tests and end-to-end UI tests. When you finish this course, you will have the fundamental knowledge necessary to create professional and personal websites using Angular.",
+"CourseCapacity":"60",
+"ProviderId":"5",
+"TagId":"4"
+},
+
+{
+"CourseName":"Building Your First API with ASP.NET Core",
+"CourseDuration":"2h 00m",
+"CourseType":"Beginner",
+"CourseCost":"2000",
+"CourseContent":"Both ASP.NET Core and Entity Framework Core have been built from the ground up, and a lot has changed. ASP.NET Core isn\'t an upgrade to ASP.NET, it\'s a new framework altogether. In this course, Building Your First API with ASP.NET Core, you\'ll learn about the important concepts of ASP.NET Core related to building an API, like working with middleware, MVC, services, and Dependency Injection. First, you\'ll start out with the basics to ASP.NET Core including how such a project is structured. Next, you\'ll explore how to implement all the functionality you\'d expect from an API. Finally, you\'ll discover how to create a database using a code-first approach and how to work with migrations. After this course, you\'ll have a good understanding of what ASP.NET Core is and how to build an API with it.",
+"CourseCapacity":"100",
+"ProviderId":"1",
+"TagId":"8"
+},
+
+{
+"CourseName":"All Things Text in After Effects",
+"CourseDuration":"3h 30m",
+"CourseType":"Intermediate",
+"CourseCost":"3300",
+"CourseContent":"In this series of tutorials, we\'ll learn about creating, controlling, and using text in After Effects. We start out by learning about the two different type tools and follow that up by navigating the Character and Paragraph panels. There are a few controls within these panels that even the most seasoned After Effects user may have never used before. After we\'ve covered the basics, we move down to the properties on the text layers. There are a few options that are totally unique to text layers as well as a few additions in the context menus that will speed up your workflow. For instance, we learn how to edit a Photoshop text layer right inside of After Effects, complete with translated layer styles. We also go over a few techniques for overcoming readability issues and some tips for creative ways to fix common problems. We learn how to preview animation presets, and finish by learning per-character animation with both Classic 3D and Ray-traced 3D. This tutorial is full of all the possibilities for your text in After Effects. It\'s perfect for a beginner just starting out learning the type tools or for someone more seasoned looking to increase their knowledge about all things text in After Effects. Software required: After Effects CC 12.2.1.5.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"25"
+},
+
+{
+"CourseName":"Advanced Node.js",
+"CourseDuration":"3h 30m",
+"CourseType":"Intermediate",
+"CourseCost":"3300",
+"CourseContent":"Learn how to answer most of the questions an experienced Node developer is expected to answer. In this course, Advanced Node.js, you\'ll learn the core Node.js concepts and API modules from simple utility modules all the way to streams and clusters. First, you\'ll discover Node\'s architecture and dependencies and how the require module and it\'s 5 major steps. Next, you\'ll explore the event-loop and it concurrency model and also about event emitters, callbacks, and promises. Then, you\'ll be working with TCP, UDP, HTTP, HTTPS, os, fs, console, and util. Finally, you\'ll learn about readable, writable, and transform streams and will also learn how to use the child process module and load balancing with the cluster module. By the end of this course, you should be comfortable understanding advanced code written in Node, and writing efficient and scalable node modules and packages",
+"CourseCapacity":"70",
+"ProviderId":"5",
+"TagId":"4"
+},
+
+{
+"CourseName":"C# 6 from Scratch",
+"CourseDuration":"4h 30m",
+"CourseType":"Intermediate",
+"CourseCost":"4300",
+"CourseContent":"In this course, C# 6 from Scratch, you will be introduced to the basics of C# 6, the latest version of one of the most popular programming languages on the planet, and work your way up through intermediate and advanced topics. Along the way you\'ll learn a good bit about best practices and how to create solid C# programs. Some of the major topics that you will cover include, basic programming constructs, classes and objects, events, LINQ, and much more. By the end of this course, you will have a solid foundation in all of C# and be ready to go on to more advanced topics. You need no prior programming experience for this course, and can use free software from Microsoft to follow along.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"16"
+},
+
+{
+"CourseName":"AWS Certified Solutions Architect - Associate",
+"CourseDuration":"2h 2m",
+"CourseType":"Intermediate",
+"CourseCost":"2200",
+"CourseContent":"AWS is the most popular and most widely used cloud platform in the world. This course, AWS Certified Solutions Architect - Associate, is designed to prepare administrators, engineers, architects, and consultants for designing workload deployments on the Amazon Web Services platform. This course will teach you design principles, including strategies for networking, storage, DNS, DBaaS, monitoring, load balancing and much more. When you\'re finished with this course, you\'ll have the skills and knowledge needed to securely design highly available and scalable systems, and you\'ll also be highly prepared for the AWS Certified Solutions Architect - Associate certification exam. The course covers all the areas and objectives listed in the exam blueprint and goes above and beyond with real world, hands-on instructions.",
+"CourseCapacity":"70",
+"ProviderId":"7",
+"TagId":"11"
+},
+
+{
+"CourseName":"Spring Fundamentals",
+"CourseDuration":"2h 00m",
+"CourseType":"Beginner",
+"CourseCost":"2000",
+"CourseContent":"This course covers all of the fundamentals of Spring. It covers Java Configuration, XML Configuration, Annotation based Configuration, Beans and their Scopes, and Properties.",
+"CourseCapacity":"100",
+"ProviderId":"4",
+"TagId":"1"
+},
+
+{
+"CourseName":"Python Fundamentals",
+"CourseDuration":"2h 00m",
+"CourseType":"Beginner",
+"CourseCost":"2000",
+"CourseContent":"Python Fundamentals gets you started with Python, a dynamic language popular for web development, big data, science, and scripting. What’s so great about Python? Python is powerful. The Python language is expressive and productive, it comes with a great standard library, and it’s the center of a huge universe of wonderful third-party libraries. With Python you can build everything from simple scripts to complex applications, you can do it quickly, and you can do it with fewer lines of code than you might think possible. But for many people those reasons take back-seat to something more important: Python is fun! Python’s readable style, quick edit-and-run development cycle, and “batteries included” philosophy mean that you can sit down and enjoy writing code rather than fighting compilers and thorny syntax. As your experiments become prototypes and your prototypes become products, Python makes the experience of writing software not just easier but truly enjoyable. In the words of Randall Munroe, \"Come join us! Programming is fun again!\"",
+"CourseCapacity":"100",
+"ProviderId":"1",
+"TagId":"24"
+},
+
+{
+"CourseName":"Python Fundamentals",
+"CourseDuration":"2h 00m",
+"CourseType":"Beginner",
+"CourseCost":"2000",
+"CourseContent":"Python Fundamentals gets you started with Python, a dynamic language popular for web development, big data, science, and scripting. What’s so great about Python? Python is powerful. The Python language is expressive and productive, it comes with a great standard library, and it’s the center of a huge universe of wonderful third-party libraries. With Python you can build everything from simple scripts to complex applications, you can do it quickly, and you can do it with fewer lines of code than you might think possible. But for many people those reasons take back-seat to something more important: Python is fun! Python’s readable style, quick edit-and-run development cycle, and batteries included philosophy mean that you can sit down and enjoy writing code rather than fighting compilers and thorny syntax. As your experiments become prototypes and your prototypes become products, Python makes the experience of writing software not just easier but truly enjoyable. In the words of Randall Munroe, - Come join us! Programming is fun again!",
+"CourseCapacity":"100",
+"ProviderId":"4",
+"TagId":"24"
+},
+
+{
+"CourseName":"Fundamentals of Cloud Computing",
+"CourseDuration":"4h 00m",
+"CourseType":"Intermediate",
+"CourseCost":"4000",
+"CourseContent":"Talk about Cloud Computing has spread like a marketing virus. But what is cloud computing, really? How does it work? How can it help IT professionals and businesses of all sizes? In this course, Fundamentals of Cloud Computing, youlll learn the different forms of cloud computing, how they can help you, what makes them so powerful. You\'ll see numerous hands-on demos of cloud computing solutions including infrastructure as a service and software as a service solutions. Finally, you\'ll learn how to secure your cloud and protect your data in the cloud. When you\'re done with this course you\'ll have the skills and knowledge that you need to understand and use cloud computing.",
+"CourseCapacity":"70",
+"ProviderId":"2",
+"TagId":"19"
+},
+
+{
+"CourseName":"AngularJS Fundamentals",
+"CourseDuration":"3h 30m",
+"CourseType":"Beginner",
+"CourseCost":"3300",
+"CourseContent":"In this course, you will learn how simple it is to use Angular to create maintainable and testable single page applications. You will learn how to: bootstrap your Angular application; use AngularJS markup and expressions; create and use controllers; use built-in services and create custom services; turn your application into a SPA using routing; and create your own custom elements and handle events using directives. You will also learn how AngularJS allows you to do all thing using test-driven-development.",
+"CourseCapacity":"100",
+"ProviderId":"6",
+"TagId":"4"
+},
+
+{
+"CourseName":"RESTful Web Services with Node.js and Express",
+"CourseDuration":"2h 50m",
+"CourseType":"Intermediate",
+"CourseCost":"2500",
+"CourseContent":"Node.js is a simple and powerful tool for backend development. When combined with express, you can create lightweight, fast, scalable APIs quickly and simply. In this course, we will walk through how to stand up a lightweight Express server serving truly RESTful services using Node.js, Mongoose, and MongoDB. We will implement all of the RESTful verbs to get, add, and update data from our service. We will also spend some time working through unit and end to end integration tests for our services.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"4"
+},
+
+{
+"CourseName":"Building Web Applications with Node.js and Express 4.0",
+"CourseDuration":"1h 50m",
+"CourseType":"Beginner",
+"CourseCost":"1500",
+"CourseContent":"Node.js is a simple and powerful tool for backend JavaScript development. In this session, I will show you everything you need to know to get started in web development with Node.js. We will start with the basics of Node.js and selecting an IDE. We will explore template engines, and rendering HTML out of Express. We will cover all aspects of routing including express middleware. We will work with multiple database and backend APIs. I will cover local security with Passport.js.",
+"CourseCapacity":"100",
+"ProviderId":"3",
+"TagId":"4"
+},
+
+{
+"CourseName":"Understanding Machine Learning with Python",
+"CourseDuration":"2h 00m",
+"CourseType":"Beginner",
+"CourseCost":"2000",
+"CourseContent":"When working with data, machine learning can be used to do incredible things, including predicting future events. Its ease of use combined with the power of scikit-learn is causing Python to become the preferred development language for many machine learning practitioners. In this course, Understanding Machine Learning with Python, you will learn how Python developers and data scientists use machine learning to predict the likelihood of events based on data. Throughout this course, you will use Python and the scikit-learn library. Specifically, you will learn how to format your problem to be solvable, how to prepare your data for use in a prediction, and finally how to combine that data with algorithms to create models that can predict the future, all performed in the Jupyter Notebook environment. By the end of this course, you will have a better understanding of how machine learning can help you put your data to good use in predicting future events, and you\'ll also know how to use Python to make it happen.",
+"CourseCapacity":"100",
+"ProviderId":"4",
+"TagId":"24"
+},
+
+{
+"CourseName":"Understanding Machine Learning with Python",
+"CourseDuration":"1h 30m",
+"CourseType":"Intermediate",
+"CourseCost":"1300",
+"CourseContent":"When working with data, machine learning can be used to do incredible things, including predicting future events. Its ease of use combined with the power of scikit-learn is causing Python to become the preferred development language for many machine learning practitioners. In this course, Understanding Machine Learning with Python, you will learn how Python developers and data scientists use machine learning to predict the likelihood of events based on data. Throughout this course, you will use Python and the scikit-learn library. Specifically, you will learn how to format your problem to be solvable, how to prepare your data for use in a prediction, and finally how to combine that data with algorithms to create models that can predict the future, all performed in the Jupyter Notebook environment. By the end of this course, you will have a better understanding of how machine learning can help you put your data to good use in predicting future events, and you\'ll also know how to use Python to make it happen.",
+"CourseCapacity":"70",
+"ProviderId":"1",
+"TagId":"24"
+},
+
+{
+"CourseName":"ASP.NET MVC 5 Fundamentals",
+"CourseDuration":"2h 00m",
+"CourseType":"Intermediate",
+"CourseCost":"2000",
+"CourseContent":"ASP.NET MVC 5 Fundamentals covers all the new features of ASP.NET MVC 5, as well as the new features for web developers in Visual Studio 2013. The course looks at the Katana and OWIN middleware components to see how the components work at a low level and how they fit into ASP.NET pipeline. The new identity and membership components are covered, and a demonstration is included to customize and seed the membership database. We look at Bootstrap 3\'s grid and responsive design system, as well as the Web API 2, including a demo of making authenticated calls against a Web API from JavaScript. The Entity Framework version 6 is covered including the new async API in EF6, and we\'ll build an application to stream performance counter data using SignalR and Knockout. Finally, there are tips and tricks for editing HTML, JavaScript, CSS and LESS with Visual Studio 2013 and extensions like Web Essentials, which brings the Zen Coding plugin to the Visual Studio.",
+"CourseCapacity":"70",
+"ProviderId":"5",
+"TagId":"8"
+},
+{
+"CourseName":"Quick Start to JavaScript: Volume 1",
+"CourseDuration":"2h 30m",
+"CourseType":"Beginner",
+"CourseCost":"2300",
+"CourseContent":"Throughout this series of JavaScript tutorials we\'ll learn how to write the programming language from scratch, so you can start creating code of your own. Quick Starts are a series of specially constructed tutorials meant to be followed in sequence and include valuable exercises to reinforce learned concepts.This tutorial assumes no prior programming experience and starts exploring the logic of a language and the concepts needed to write code from the ground up. We\'ll start by exploring what we can create with JavaScript and then learn how to start creating our own code with the basic building blocks of JavaScript using strings, numbers, booleans, common operators, variables, and control flow. We\'ll finish the JavaScript training by putting together all the concepts with the creation of a simple zombie text adventure game.While building a project together, you\'ll be provided with valuable knowledge, and the real power comes from being able to take the techniques you\'ve learned and apply them in a different way to your own work. With this in mind, you\'ll be presented with an assignment immediately following each volume. These assignments will challenge you to take the skills that you\'ve learned in a particular volume and apply them to a different asset.These tutorials are designed to be taken in sequence so we really encourage you to start with this volume and proceed all the way through to Volume 3, all so you can take advantage of the periodic assignments along the way to get the full learning experience. Software required: Mozilla Firefox.",
+"CourseCapacity":"100",
+"ProviderId":"4",
+"TagId":"6"
+},
+
+{
+"CourseName":"Spring with JPA and Hibernate",
+"CourseDuration":"5h 10m",
+"CourseType":"Intermediate",
+"CourseCost":"5100",
+"CourseContent":"This course walks through developing applications using Spring with JPA and Hibernate. There is a scaffold application using Spring MVC. The material will be developed using Eclipse/Spring STS and all downloads will be done using Maven.",
+"CourseCapacity":"70",
+"ProviderId":"7",
+"TagId":"3"
+},
+
+{
+"CourseName":"Introduction to MongoDB",
+"CourseDuration":"2h 30m",
+"CourseType":"Beginner",
+"CourseCost":"2300",
+"CourseContent":"MongoDB is a very popular open source NoSQL database. When scalability and speed are required, this database shines. It is a document database which imposes very little and has drivers for many programming languages. This course will teach you how to get mongo running, manipulate and query data, index for speed, and arm you with the essential skills required to start using Mongo.",
+"CourseCapacity":"100",
+"ProviderId":"1",
+"TagId":"26"
+},
+
+{
+"CourseName":"Introduction to MongoDB",
+"CourseDuration":"2h 4m",
+"CourseType":"Beginner",
+"CourseCost":"2000",
+"CourseContent":"MongoDB is a very popular open source NoSQL database. When scalability and speed are required, this database shines. It is a document database which imposes very little and has drivers for many programming languages. This course will teach you how to get mongo running, manipulate and query data, index for speed, and arm you with the essential skills required to start using Mongo.",
+"CourseCapacity":"100",
+"ProviderId":"3",
+"TagId":"26"
+},
+
+{
+"CourseName":"Object-oriented Programming in JavaScript - ES6",
+"CourseDuration":"2h 18m",
+"CourseType":"Intermediate",
+"CourseCost":"2180",
+"CourseContent":"ES6 is a major upgrade to JavaScript, offering a new syntax for creating objects and working with inheritance. If you want to stay up to date with the JavaScript programming language, you need to watch this course! In this course, Object-oriented Programming in JavaScript - ES6, you will learn this new syntax and create many different kinds of classes. You\'ll learn all the features of JavaScript classes including working with constructors, prototypes, inheritance, and simulating public, private, and static members. Next, you\'ll create classes for regular business objects, virtual objects which you want to extend, a data service, and user interface components. Finally, you\'ll go step by step through the creation of a sample object-oriented web application. When you\'re finished with this course, you will have a strong understanding of ES6, and how t use classes and modules to develop software using modern programming techniques.",
+"CourseCapacity":"70",
+"ProviderId":"5",
+"TagId":"27"
+},
+
+{
+"CourseName":"C# Interfaces",
+"CourseDuration":"2h 36m",
+"CourseType":"Intermediate",
+"CourseCost":"2360",
+"CourseContent":"Do you want code that\'s maintainable, extensible, and easily testable? If so, then C# interfaces are here to help. In this course, we’ll take a look at how we can use interfaces effectively in our code. We\'ll start at the beginning (\"What are interfaces?\") and then explore why we want to use them. Along the way we\'ll create and implement own interfaces, see how to explicitly implement interfaces, and take a look at dynamic loading, unit testing, and dependency injection. All of which is made possible with interfaces.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"16"
+},
+
+{
+"CourseName":"ASP.NET Core with the New MSBuild Based Tooling",
+"CourseDuration":"2h 4m",
+"CourseType":"Intermediate",
+"CourseCost":"2400",
+"CourseContent":"At the core of developing ASP.NET core applications is the project system. It brings together all the pieces to compile and execute your applications. In this course, ASP.NET Core with the New MSBuild Based Tooling, you\'ll learn how to use the new .NET Core Tools release to develop web applications. First, you\'ll explore the myriad of new benefits, including a modernized, lean MSBuild project file that combines the best of project.json and MSBuild. Next, you\'ll discover the new templating engine for dotnet new. Additionally, you\'ll dive into several command line tools to modify solution and project files, making it even easier to develop ASP.NET Core apps on any platform, with any IDE. Finally, you\'ll cover how the benefits of this new project system are being ported to other .NET project types. By the end of this course, you\'ll have a foundational knowledge of the new tooling and know how to get the most out of it.",
+"CourseCapacity":"70",
+"ProviderId":"7",
+"TagId":"8"
+},
+
+{
+"CourseName":"Ethical Hacking: Understanding Ethical Hacking",
+"CourseDuration":"2h 2m",
+"CourseType":"Advance",
+"CourseCost":"2200",
+"CourseContent":"This course will start you down the path of becoming an Ethical Hacker, or in other words; become a \'Security Profiler.\' You will learn to start thinking and looking at your network through the eyes of malicious attackers. You will learn to understand the motivation of an attacker. It is the duty of all System Admins and Security Professionals to protect their infrastructure from not only outside attackers but also attackers within your company. We will cover the terminology used by attackers, the difference between \'hacking\' and \'ethical hacking\', the phases of hacking, the types of attacks on a system, what skills an Ethical Hacker needs to obtain, types of security policies, why Ethical Hacking is essential, how to be in the \'know\' of what\'s happening in the hacking world, who a \'hacker\' is, what are the biggest security attack vectors, and more.",
+"CourseCapacity":"50",
+"ProviderId":"8",
+"TagId":"25"
+},
+
+{
+"CourseName":"Introduction to PowerShell",
+"CourseDuration":"1h 22m",
+"CourseType":"Intermediate",
+"CourseCost":"1220",
+"CourseContent":"PowerShell is Microsoft\'s full featured scripting language. Built on the .Net Framework, it is extensible, powerful, and easy to work with. In this course you\'ll begin your path to PowerShell mastery by learning the basics, including: how to customize the User Interfaces; basic PowerShell commands; variables; loops; branching; script blocks; working with files; processing user input; creating and extending functions.",
+"CourseCapacity":"70",
+"ProviderId":"6",
+"TagId":"21"
+},
+
+{
+"CourseName":"Python – Beyond the Basics",
+"CourseDuration":"2h 4m",
+"CourseType":"Beginner",
+"CourseCost":"2040",
+"CourseContent":"Python – Beyond the Basics builds directly on the foundations laid in our introductory Python course, Python Fundamentals. Python is a great dynamic language for web development, big data, science, and scripting. In this course we add breadth and depth to your Python skills, exploring the topics you\'ll need to create robust and readable applications of any size. On completing this course, you\'ll be familiar with the majority of Python techniques and constructs used in Python programs. Crucially, we\'ll also advise you on when – and when not – to use the different tools available in Python to best effect, to maximize the quality of your code, your productivity, and the joy inherent in coding in Python.",
+"CourseCapacity":"100",
+"ProviderId":"4",
+"TagId":"24"
+},
+
+{
+"CourseName":"How Git Works",
+"CourseDuration":"1h 36m",
+"CourseType":"Advance",
+"CourseCost":"1360",
+"CourseContent":"Here is a confession: I used Git for a long time without really understanding what was going on. I knew all the basic commands, but I still got stranded when something went wrong. Why did my rebase fail? How did I manage to mess up the remote? Then I found the key to Git: the content of the .git directory. Once I understood the underlying model, everything about Git clicked into place. Things that used to be baffling and complicated suddenly looked simple and elegant. Let me share these insights with you. It will take you just two hours to wrap your head around Git.",
+"CourseCapacity":"50",
+"ProviderId":"1",
+"TagId":"23"
+},
+
+{
+"CourseName":"Integration Testing of Entity Framework Applications",
+"CourseDuration":"5h 40m",
+"CourseType":"Intermediate",
+"CourseCost":"5400",
+"CourseContent":"Having a good integration test suite is your greatest asset. In this course, Integration Testing of Entity Framework Applications, you\'ll learn that a good integration test suite is the best way to ensure the quality of your Entity Framework application. First, you\'ll set up a Continuous Integration server to rebuild a database and run all integration tests on every checkin. Next, you\'ll keep your test readable and resilient to change, so that they help you implement new features rather than hold you back. Finally, you\'ll find the balance between unit tests and integration tests so that you use the best technique in every case. After this course, you\'ll know that by investing in a quality test suite you\'ll increase both velocity and quality.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"17"
+},
+
+{
+"CourseName":"What\'s New in Java 8",
+"CourseDuration":"5h 40m",
+"CourseType":"Advance",
+"CourseCost":"5440",
+"CourseContent":"This course covers the most useful parts of Java 8. This update of the Java platform is the biggest of all. It\'s even bigger than Java 5 that saw the introduction of generics. We\'ll begin with lambda expressions and the Stream API, which bring new fundamental patterns to the Java platform. Many problems solved with the Iterator pattern are now solved much more efficiently with the patterns brought by the Stream API. But Java 8 is not only about lambdas, streams and collectors, there is also a new Java Date and Time API which are covered in this course. This API fixes all the flaws of the previous Date/Calendar API and brings new, very useful, concepts and tools. Many new features that bring a functional programming approach have been added to the Collection API. This is also covered in detail. Many more things are covered; little things, scattered here and there in the JDK, like this new StringJoiner class, useful to join strings with a prefix, a postfix, and a separator. JavaFX and Nashorn are also quickly covered, to show the FXML way to describe Graphical User Interfaces, and the new ways to describe JavaFX in Javascript using Nashorn.",
+"CourseCapacity":"50",
+"ProviderId":"2",
+"TagId":"6"
+},
+
+{
+"CourseName":"Getting Started With Jenkins Continuous Integration",
+"CourseDuration":"2h 2m",
+"CourseType":"Intermediate",
+"CourseCost":"2200",
+"CourseContent":"Jenkins is one of the most popular tools for doing continuous integration on ANY platform or technology! One of the things that makes Jenkins so popular is how flexible it is to handle just about any kind of build or continuous integration process you can think of through the hundreds of plugins that are available. In this course you will learn everything you need to know to get started using Jenkins and setup your first continuous integration server. We\'ll cover installing Jenkins, configuring Jenkins and getting a basic job running. Once we are confident in the basic functionality of Jenkins we\'ll move on and talk about all the plugins that are available and how you might use them. Finally, we\'ll take a look at the big picture and show you what you can really do with Jenkins. Along the way I\'ll give you some great tips that will help you pick the best plugins for Jenkins and give you some good strategies for successfully bringing you build system into Jenkins with little headache. By the end of this course you should feel confident installing Jenkins and setting up basic jobs. You should also have a clear picture of what you can do with Jenkins and how to expand its capabilities. If you\'ve been wanting to learn about Jenkins, but didn\'t know where to start, this course might be just what you need.",
+"CourseCapacity":"70",
+"ProviderId":"3",
+"TagId":"22"
+},
+
+{
+"CourseName":"Using ASP.NET Core to Build Single-page Applications",
+"CourseDuration":"1h 36m",
+"CourseType":"Intermediate",
+"CourseCost":"1360",
+"CourseContent":"Learn to code faster, boost performance and SEO, and to use advanced client-side debugging features. In this course, Using ASP.NET Core to Build Single-page Applications, you\'ll learn how to leverage that power to get a streamlined development experience and build efficient production ready apps. First, you\'ll discover how to streamline the dev experience. Next, you\'ll explore server-side prerendering and how to create efficient production builds. Finally, you\'ll learn about continuous deployment. By the end of this course, you\'ll be able to scaffold an ASP.NET core web application fronting with your favorite spa framework.",
+"CourseCapacity":"70",
+"ProviderId":"1",
+"TagId":"8"
+},
+
+{
+"CourseName":"AngularJS for .NET Developers",
+"CourseDuration":"2h 40m",
+"CourseType":"Intermediate",
+"CourseCost":"2400",
+"CourseContent":"ASP.NET Core is a whole new way of developing web-applications with .NET and C#. In this course, Building a Web App with ASP.NET Core, MVC 6, EF Core, and Angular, you\'ll learn how this new change can speed up development of web apps. Next, you\'ll learn how to create web pages using ASP.NET MVC and also how to build API\'s with ASP.NET MVC. Finally, you\'ll learn how to secure your pages and API\'s with ASP.NET identity and also learn how to use AngularJS for client-side development. By the end of this course, you\'ll know how to build your own app with ASP.NET Core.",
+"CourseCapacity":"70",
+"ProviderId":"8",
+"TagId":"4"
+},
+
+{
+"CourseName":"Microsoft Azure IaaS Monitoring and Management - Getting Started",
+"CourseDuration":"2h 4m",
+"CourseType":"Advance",
+"CourseCost":"2400",
+"CourseContent":"In this course, Microsoft Azure IaaS Monitoring and Management - Getting Started, you\'ll learn the skills you need to keep your proverbial finger on the pulse of your Microsoft Azure infrastructure-as-a-service (IaaS) services. First, you\'ll discover how to use Azure Monitor to perform basic monitoring. Next, you\'ll explore how to install and configure Azure management solutions, particularly the Insight and Analytics solution. Finally, you\'ll get comfortable with using Log Analytics and Log Search to \"drill down\" into the most important data in your IaaS systems. When you\'re finished with this course, you\'ll have all the tools you need to confidently manage and monitor your IaaS deployments, and you\'ll be ready to dive deeper into Azure systems architecture.",
+"CourseCapacity":"50",
+"ProviderId":"3",
+"TagId":"19"
+},
+
+{
+"CourseName":"SQL Server: Installing and Configuring SQL Server 2016",
+"CourseDuration":"3h 2m",
+"CourseType":"Beginner",
+"CourseCost":"3200",
+"CourseContent":"How do you configure Windows correctly for running SQL Server 2016? How do you choose a RAID level for the SQL Server storage? Which installation options should you choose for SQL Server, and how do you keep SQL Server up-to-date after installing it? This course, SQL Server: Installing and Configuring SQL Server 2016, answers all these questions and more. The course begins by explaining why it is so important to install SQL Server 2016 correctly and then explains how to configure Windows for stability and performance. It then describes and shows the SQL Server 2016 installation process, including which options to choose or not, along with common configuration mistakes to avoid. After that it explains how to keep your SQL Server 2016 instance up-to-date with Service Packs and Cumulative Updates, as well as post-installation configuration tasks. Finally it explains how to configure Database Mail and SQL Server Agent Alerts so that you are notified of critical errors when they occur. When you\'re finished with this course, you\'ll be better prepared to install SQL Server for the first time.",
+"CourseCapacity":"100",
+"ProviderId":"4",
+"TagId":"13"
+},
+
+{
+"CourseName":"Shell Scripting with Bash",
+"CourseDuration":"2h 00m",
+"CourseType":"Intermediate",
+"CourseCost":"2000",
+"CourseContent":"Bash shell scripts allow you to automate just about any task on a UNIX system. They combine the power of all the UNIX userland utilities with a powerful scripting language. Whether you are a system administrator, a developer or a power user, shell scripts will make you more productive.",
+"CourseCapacity":"70",
+"ProviderId":"7",
+"TagId":"21"
+},
+
+{
+"CourseName":"Microsoft Azure IaaS Monitoring and Management - Getting Started",
+"CourseDuration":"2h 0m",
+"CourseType":"Advance",
+"CourseCost":"2000",
+"CourseContent":"In this course, Microsoft Azure IaaS Monitoring and Management - Getting Started, you\'ll learn the skills you need to keep your proverbial finger on the pulse of your Microsoft Azure infrastructure-as-a-service (IaaS) services. First, you\'ll discover how to use Azure Monitor to perform basic monitoring. Next, you\'ll explore how to install and configure Azure management solutions, particularly the Insight and Analytics solution. Finally, you\'ll get comfortable with using Log Analytics and Log Search to \'drill down\' into the most important data in your IaaS systems. When you\'re finished with this course, you\'ll have all the tools you need to confidently manage and monitor your IaaS deployments, and you\'ll be ready to dive deeper into Azure systems architecture.",
+"CourseCapacity":"50",
+"ProviderId":"3",
+"TagId":"19"
+},
+
+{
+"CourseName":"RESTful Web Services with PHP and Laravel",
+"CourseDuration":"2h 54m",
+"CourseType":"Intermediate",
+"CourseCost":"2540",
+"CourseContent":"With all kinds of applications and devices connecting to web services, traditional server-side rendered web pages are losing ground. Today, RESTful services play an invaluable role and being able to develop such services poses a great advantage. In this course, you\'ll learn which principles RESTful services should follow and how to use the many helpers and tools Laravel offers to create such a service. Besides learning the steps required to set up API endpoints, handle requests and store data, you\'ll also understand how to incorporate authentication to secure your service. At the time you\'ve finished this course, you\'ll understand how to structure a RESTful service and implement it using Laravel. This will help you to gain a strong position in an environment where skills needed for developing web services are more important than ever before.",
+"CourseCapacity":"70",
+"ProviderId":"1",
+"TagId":"14"
+},
+
+{
+"CourseName":"Securing Your Node.js Web App",
+"CourseDuration":"6h 20m",
+"CourseType":"Advance",
+"CourseCost":"6200",
+"CourseContent":"Since its creation in 2009, Node.js has seen exponential growth in its community of users and the applications they are building. With the drive towards a connected society, the need for web applications has never been greater. Yet, despite the push to connect the world as we know it, businesses of all sizes fall victim to data breaches everyday. The security risks that a Node.js based web application face are no different than any other web application. This course, Securing Your Node.js Web App, will empower you with both the understanding of various web based security risks and how to apply the proper mitigation in your Node.js web application. First, you\'ll learn about implementing proper authentication and session management. Next, you\'ll explore how to protect your MongoDB database from injection attacks and how to handle untrusted data - a key player in many of the risks you\'ll look at. Finally, you\'ll wrap up by learning how to control application and user authorization to key access areas and the benefits of serving our application over HTTPS. By the end of this course, you\'ll be on your way to building a significantly more secure Node.js web application.",
+"CourseCapacity":"50",
+"ProviderId":"4",
+"TagId":"4"
+},
+
+{
+"CourseName":"Building HTML5 and JavaScript Apps with MVVM and Knockout",
+"CourseDuration":"1h 36m",
+"CourseType":"Intermediate",
+"CourseCost":"1360",
+"CourseContent":"Do you write a lot of HTML, JavaScript, and jQuery to push and pull data? Does your JavaScript seem to lack the structure and patterns of your non script code? In this course you will learn popular techniques to use data binding to bind your data to your target controls in HTML writing less code, but gaining more power. See how to consume json data, use json objects in JavaScript, and use declarative binding all by using the KnockoutJS JavaScript library. Learn how the XAML data binding paradigm has been brought to the web world with observable objects, change notifications, subscriptions, and 2 way bindings. Explore modern JavaScript patterns and practices that follow the SOLID principles, reduce errors in your code, and make code easier to maintain. After taking this course you will have a solid foundation for building robust web apps using common JavaScript patterns, MVVM, and KnockoutJS.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"12"
+},
+
+{
+"CourseName":"Webpack Fundamentals",
+"CourseDuration":"2h 2m",
+"CourseType":"Beginner",
+"CourseCost":"2200",
+"CourseContent":"Front end web development is getting more and more complex: more moving pieces are being introduced every day. The days of doing front end web development without a build are drawing to a close. Of all the front end build tools, Webpack is one of the most interesting and is gaining popularity. This course will cover all the ins and outs of Webpack, how to use it for your own purposes, and how to customize it to fit your exact needs.",
+"CourseCapacity":"100",
+"ProviderId":"8",
+"TagId":"20"
+},
+
+{
+"CourseName":"MySQL Fundamentals",
+"CourseDuration":"2h 23m",
+"CourseType":"Beginner",
+"CourseCost":"2230",
+"CourseContent":"MySQL is a popular choice of database for use in web applications, and is a central component of the widely used LAMP open source web application software stack. This course covers the fundamentals of MySQL, including how to install MySQL as well as write basic data retrieval and data modification queries.",
+"CourseCapacity":"100",
+"ProviderId":"1",
+"TagId":"13"
+},
+
+{
+"CourseName":"Introduction to Azure App Services",
+"CourseDuration":"2h 12m",
+"CourseType":"Intermediate",
+"CourseCost":"2120",
+"CourseContent":"Understanding what to use when inside of Azure App Services, and how it all ties together, can be daunting. In this course, Introduction to Azure App Services, you\'ll learn when and how to take advantage of this powerful platform. You\'ll start with an introduction to the basic concept of the cloud and what the benefits of it are and how Azure App Services provides this model as a platform. You\'ll then get into what Mobile Apps are, as well as some details about offline sync and push notifications. Before ending you\'ll get to see what Azure functions are and how you can use them to run small applications effortlessly. By the end of this course, you\'ll be ready to focus on creating great apps without having to worry about the plumbing.",
+"CourseCapacity":"70",
+"ProviderId":"3",
+"TagId":"19"
+},
+
+{
+"CourseName":"Introduction to Web Development",
+"CourseDuration":"1h 30m",
+"CourseType":"Beginner",
+"CourseCost":"1300",
+"CourseContent":"Introduction to Web Development is a one-stop course that covers all of the tools you’ll need to create websites. The course contains in-depth discussions of each of \'The Big Three\' tools used for Website development: Hypertext Markup Language (HTML), Cascading Style Sheets (CSS), and JavaScript as well as getting started with GitHub and Node.js. This course gives you the skills you need to be a professional web developer. Course materials can be found at https://bit.ly/1jXij63",
+"CourseCapacity":"100",
+"ProviderId":"5",
+"TagId":"12"
+},
+
+{
+"CourseName":"Maven Fundamentals",
+"CourseDuration":"2h 2m",
+"CourseType":"Intermediate",
+"CourseCost":"2200",
+"CourseContent":"This course covers all of the basic fundamentals of Maven. It covers dependencies, plugins, repositories, IDE integrations, and all the basic commands of Maven.",
+"CourseCapacity":"70",
+"ProviderId":"3",
+"TagId":"2"
+},
+
+{
+"CourseName":"JavaScript From Scratch",
+"CourseDuration":"3h 25m",
+"CourseType":"Intermediate",
+"CourseCost":"3250",
+"CourseContent":"Building a JavaScript application from scratch today is overwhelming. You have to make decisions about package management, bundling, linting, transpiling, automated testing, and much more. There are literally over 40 important decisions to consider. This course is a playbook of potential options that provides a clear path through the key decisions. Along the way, we\'ll build a robust automated development environment from the ground up using ES6. You’ll learn how to set up a reusable development environment that provides a powerful foundation for future projects, that’s tailored just for your team’s needs.",
+"CourseCapacity":"70",
+"ProviderId":"5",
+"TagId":"6"
+},
+
+{
+"CourseName":"Web Application Penetration Testing with Burp Suite",
+"CourseDuration":"1h 36m",
+"CourseType":"Intermediate",
+"CourseCost":"1360",
+"CourseContent":"In this course, Web Application Penetration Testing with Burp Suite, you will learn hands-on techniques for attacking web applications and web services using the Burp Suite penetration testing tool. This course is designed to expand your knowledge of the Burp Suite beyond just capturing requests and responses. First, you\'ll learn about scoping your target application properly. Next, you\'ll spend some time scanning to trigger potential security vulnerabilities in your target, then digging deep into the results to validate your findings. Finally, you\'ll wrap up by leaning how to properly report your results to your audience. By the end this course, you\'ll know how to perform all of these techniques at a comfortable and efficient level to better perform your job as a pen tester.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"17"
+},
+
+{
+"CourseName":"HTML5 Fundamentals",
+"CourseDuration":"2h 4m",
+"CourseType":"Beginner",
+"CourseCost":"2040",
+"CourseContent":"HTML5 is a big and broad topic that has evolved much over the years. In this course, HTML5 Fundamentals, you\'ll learn about HTML5 from the new and updated markup to the associated JavaScript APIs that help make up the modern web. After gaining perspective on the breadth, scope, and history of HTML5 you learn about native selection, web forms, media, drawing, and drag and drop APIs. As you go through this course, you\'ll learn how to deal with out-of-date browsers and how you can detect browser capabilities so your web apps take advantage of all that HTML5 has to offer. After watching this course, you will have learned how to deal with out-of-date browsers and how you can detect browser capabilities so your web apps take advantage of all that HTML5 has to offer.",
+"CourseCapacity":"100",
+"ProviderId":"7",
+"TagId":"12"
+},
+
+{
+"CourseName":"Advanced TypeScript",
+"CourseDuration":"5h 40m",
+"CourseType":"Advance",
+"CourseCost":"5400",
+"CourseContent":"In order to take full advantage of TypeScript you must have the knowledge to use its advanced features to write clean and expressive code. In this course, Advanced TypeScript, you will learn how to harness the full power of the type system to write better code with fewer errors. You will learn how to extend your use of existing types with union, intersection, and tuple types. You\'ll then go over how to create and use decorators. You will also learn how to manage asynchronous code using promises and the async and await keywords. When you\'re finished with this course, you will have the advanced skills necessary to fully utilize the language to solve all of your client and server-side coding problems.",
+"CourseCapacity":"50",
+"ProviderId":"5",
+"TagId":"6"
+},
+
+{
+"CourseName":"Real-Time Web with Node.js",
+"CourseDuration":"3h 2m",
+"CourseType":"Intermediate",
+"CourseCost":"3020",
+"CourseContent":"In this course, Kyle Simpson builds your Node.js knowledge step-by-step, starting from simple one-line scripts to chat and video conferencing applications. Learn the HTML5 APIs you need to know for real-time communications such as canvas/video, sockets, getUserMedia, and WebRTC. Then dive into Node.js and learn all about how to use it from the ground up in the command line to communicating with HTML5 in real-time through asynchronous code in Node.js.",
+"CourseCapacity":"70",
+"ProviderId":"3",
+"TagId":"4"
+},
+
+{
+"CourseName":"Building AngularJS and Node.js Apps with the MEAN Stack",
+"CourseDuration":"1h 36m",
+"CourseType":"Intermediate",
+"CourseCost":"1360",
+"CourseContent":"The MEAN stack is becoming more and more popular. Angular has become the hottest new MVC framework, and using it with Node and Express means a high level of harmony between the client and server. Throw MongoDB on for data storage, and you have JavaScript from front to back. These applications are quick to put together, and represent the modern state of web application development. This course will help you get a full application up and running in no time, and introduce you to all the core concepts you need to build applications utilizing these technologies.",
+"CourseCapacity":"70",
+"ProviderId":"2",
+"TagId":"4"
+},
+
+{
+"CourseName":"Unit Testing In Java With JUnit",
+"CourseDuration":"2h 30m",
+"CourseType":"Intermediate",
+"CourseCost":"2300",
+"CourseContent":"Do you want to get started with unit testing in Java? Perhaps you already know a little about JUnit, but you\'ve always wanted to learn more about this useful framework? Either way, this course will teach you what you need to know to not only get started with JUnit, but to master all of the features of the JUnit framework. In this course, we\'ll start out by learning the basics of JUnit and how to create some basic unit tests. Then, we\'ll go into some of the lesser known advanced features of JUnit that will really help you write elegant tests with less code. After that, I\'ll show you how to integrate JUnit with your existing Ant or Maven build system and how you can automate the creation of JUnit reports. Finally, we\'ll wrap things up by going beyond the basic uses of JUnit by learning how to use stubs and mocks to really isolate classes and we\'ll also learn how to use JUnit for more than just unit testing. By the end of this course, you\'ll be a JUnit pro and will have a handful of useful tools and techniques you can use to make the most of the JUnit framework. If you are interested in JUnit, you won\'t want to miss this course.",
+"CourseCapacity":"70",
+"ProviderId":"7",
+"TagId":"17"
+},
+
+{
+"CourseName":"Big Data: The Big Picture",
+"CourseDuration":"5h 40m",
+"CourseType":"Intermediate",
+"CourseCost":"5440",
+"CourseContent":"In this course, ZDNet’s Big Data correspondent Andrew Brust teaches you all about Big Data. This course will get you up and running with the definitions and technologies you need to know, and the vendors you need to know about. By the end of the course, you’ll know what Big Data is, how it can integrate with conventional database and Business Intelligence (BI) technologies, and how to devise a strategy for adopting Big Data in your organization. No Big Data or NoSQL knowledge is required, but a lot will be imparted. This course is aimed at executives and business decision makers, and is actionable for technologists as well.",
+"CourseCapacity":"70",
+"ProviderId":"6",
+"TagId":"18"
+},
+
+{
+"CourseName":"What is automation",
+"CourseDuration":"1h 12m",
+"CourseType":"Beginner",
+"CourseCost":"1120",
+"CourseContent":"Creating automated tests for a web application can be challenging. Two of the biggest barriers to getting started are picking an automation tool and developing a framework for writing the tests. This course explores how to use the popular browser automation framework, Selenium, to create automated tests for web applications. We will examine using Selenium to directly record from within a Firefox browser, as well as using C# to automate the web browser using Selenium\'s API. We will also explore how to distribute tests over multiple machines using Selenium Server\'s grid capabilities. The course concludes with the implementation of a simple, maintainable framework for testing a web application using Selenium.",
+"CourseCapacity":"100",
+"ProviderId":"3",
+"TagId":"17"
+},
+
+{
+"CourseName":"Getting Started With Elasticsearch for .NET Developers",
+"CourseDuration":"2h 55m",
+"CourseType":"Intermediate",
+"CourseCost":"2550",
+"CourseContent":"Elasticsearch is a free, open source, distributed, real-time analytics and search engine. It\'s built to be used in environments where speed and availability are considered high priorities. This course will introduce users to Elasticsearch, do a walkthrough of a basic installation, and teach the user how to index data and query it efficiently. The course will then go on to teach more advanced querying techniques, filters, and analytics. Finally, the course will show users how to integrate Elasticsearch with their .NET projects using a basic console application example.",
+"CourseCapacity":"70",
+"ProviderId":"5",
+"TagId":"8"
+},
+
+{
+"CourseName":"Introduction to CSS",
+"CourseDuration":"2h 2m",
+"CourseType":"Beginner",
+"CourseCost":"2200",
+"CourseContent":"An Introduction to CSS will give you all the knowledge you need to start working with Cascading Style Sheets (CSS) and web design. During the course you\'ll see how to achieve 2 and 3 column layouts with CSS, and learn how to work with the HTML box model and CSS cascade feature. Along the way we\'ll also be styling text, changing colors, and using the flexibility and power of CSS selectors.",
+"CourseCapacity":"100",
+"ProviderId":"8",
+"TagId":"12"
+},
+
+{
+"CourseName":"LINQ Fundamentals with C# 6.0",
+"CourseDuration":"2h 2m",
+"CourseType":"Advance",
+"CourseCost":"2020",
+"CourseContent":"LINQ introduced radical changes to the C# language. In this course, LINQ Fundamentals with C# 6.0, you\'ll see features of the C# language that make LINQ work, as well as how to use LINQ effectively using practical examples. You\'ll start with seeing a demonstration of the power of LINQ along with some of the important features of the C# language for LINQ, including how to create and use extension methods and lambda expressions. Next, you\'ll focus on the behavior of LINQ queries and start to work with realistic data to learn how to filter, order, and project data. Finally, you\'ll see some demonstrations on how to use LINQ to XML as well as, how LINQ works with a remote datasource by using the Entity Framework against Microsoft SQL Server. By the end of this course, you\'ll be ready to process and query in-memory data, as well as work with XML and a SQL Server database.",
+"CourseCapacity":"50",
+"ProviderId":"2",
+"TagId":"16"
+},
+
+{
+"CourseName":"HTML5 Web Component Fundamentals",
+"CourseDuration":"2h 4m",
+"CourseType":"Beginner",
+"CourseCost":"2300",
+"CourseContent":"In this course, you\'ll learn how HTML5 Web Components give us the power to extend the web with our own rich, standards-based components. Web developers have been struggling for years to create truly reusable components. We struggle with styling, bundling, defining templates, and encapsulating our markup and styles from accidental manipulation. But HTML5 Web Components provide the power to finally define standards-based, reusable web components through four new technologies. Learn how to use the Shadow DOM to encapsulate the DOM and styling for your components. Define inert templates with the template tag. Extend HTML by registering your custom elements. And bundle this all together in a simple reusable package using HTML5 imports.",
+"CourseCapacity":"100",
+"ProviderId":"4",
+"TagId":"12"
+},
+
+{
+"CourseName":"Oracle Cloud for Developers",
+"CourseDuration":"5h 40m",
+"CourseType":"Intermediate",
+"CourseCost":"5400",
+"CourseContent":"Do you want to develop or migrate your existing web applications to run in the cloud? Perhaps you have an environment with multiple languages and runtimes at the same time? In this course, Oracle Cloud for Developers, you\'ll learn how to create Java SE and Node.js applications and run them in Oracle Application Container Cloud Service and take advantage of the power of the cloud. You\'ll learn all about integration with other Oracle Cloud Services such as Database. You\'ll also learn to deploy, monitor, and scale your applications instantly from the Web UI. By the end of this course, you\'ll know everything you\'ll required to create applications and run them in Oracle Application Container Cloud Service.",
+"CourseCapacity":"70",
+"ProviderId":"6",
+"TagId":"15"
+},
+
+{
+"CourseName":"HTML5 Web Component Fundamentals",
+"CourseDuration":"2h 44m",
+"CourseType":"Intermediate",
+"CourseCost":"2440",
+"CourseContent":"In this course, you\'ll learn how HTML5 Web Components give us the power to extend the web with our own rich, standards-based components. Web developers have been struggling for years to create truly reusable components. We struggle with styling, bundling, defining templates, and encapsulating our markup and styles from accidental manipulation. But HTML5 Web Components provide the power to finally define standards-based, reusable web components through four new technologies. Learn how to use the Shadow DOM to encapsulate the DOM and styling for your components. Define inert templates with the template tag. Extend HTML by registering your custom elements. And bundle this all together in a simple reusable package using HTML5 imports.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"12"
+},
+
+{
+"CourseName":"Improving CSS with PostCSS",
+"CourseDuration":"1h 36m",
+"CourseType":"Intermediate",
+"CourseCost":"1500",
+"CourseContent":"PostCSS is like a Swiss army knife of CSS plugins with over 250 plugins that extend and alter the functionality of CSS itself. From CSS variables and mixins, to future-proofing, PostCSS has it all. In this course, Improving CSS with PostCSS, you will explore the best ways to integrate PostCSS within your workflow. Next, you will install and use some of the most popular PostCSS plugins so that you have a solid understanding of how to use any of the 250 plugins PostCSS offers. Finally, you\'ll learn how to write your own PostCSS plugin from scratch! If you\'re someone who deals with CSS on a regular basis, there\'s no reason you should not use PostCSS, and after watching this course, you will have a solid understanding of how to harness the power of PostCSS.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"12"
+},
+
+{
+"CourseName":"HTML Fundamentals",
+"CourseDuration":"1h 36m",
+"CourseType":"Beginner",
+"CourseCost":"1360",
+"CourseContent":"HTML markup is the heart of any web application and this course will teach you the fundamentals of HTML regardless of the tool you use to author it. You will learn how to properly define your HTML markup and follow the standards, how to create lists, tables, and images, and all about text elements. Along the way you will also be show what NOT to do in your HTML.",
+"CourseCapacity":"100",
+"ProviderId":"3",
+"TagId":"12"
+},
+
+{
+"CourseName":"RESTFul Services in Java using Jersey",
+"CourseDuration":"1h 36m",
+"CourseType":"Intermediate",
+"CourseCost":"1360",
+"CourseContent":"This course walks through developing RESTFul web services in Java using the Jersey Framework. It walks through all the configuration and setup to begin developing using this framework.",
+"CourseCapacity":"70",
+"ProviderId":"7",
+"TagId":"14"
+},
+
+{
+"CourseName":"What\'s New in SQL Server 2016 Reporting Services",
+"CourseDuration":"3h 00m",
+"CourseType":"Intermediate",
+"CourseCost":"3000",
+"CourseContent":"So you\'re an experienced SSRS developer, but you need to learn the new features in SQL Server 2016 Reporting Services. Well this is the course for you! In this course, you\'ll focus only on the new and enhanced features in the latest release of SQL Server. First, you\'ll start with the new Report Portal, including the new KPI feature. Next, you\'ll look at the many enhancements around traditional (now called paginated) reports, including the ability to arrange parameters, html5 rendering, and the new treemap and sunburst chart types. Finally, you\'ll look at the exciting new Mobile Report Publisher, seeing how to create dashboards for not just the web but tablets and phones as well. By the end of this course, you\'ll be up to speed on all the new features in SQL Server 2016 Reporting Services.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"13"
+},
+{
+"CourseName":"HTML Forms",
+"CourseDuration":"2h 2m",
+"CourseType":"Intermediate",
+"CourseCost":"2020",
+"CourseContent":"This course picks up where the HTML Fundamentals course left off with a focus on form processing. You will learn how to create forms, all about the various input types, scripting forms and submitting files in forms. In addition, this course introduces form processing on the server with several popular frameworks including ASP.NET, PHP, and Ruby.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"12"
+},
+
+{
+"CourseName":"Java Fundamentals: The Core Platform",
+"CourseDuration":"5h 40m",
+"CourseType":"Beginner",
+"CourseCost":"5400",
+"CourseContent":"Java is the most in-demand programming language skill amongst software developers, and one of the most important skills for big data specialists. This course, Java Fundamentals: The Core Platform, provides thorough coverage of the core Java platform, giving you the foundation you need to begin developing Java applications using the features and capabilities of the Java Runtime Environment (JRE), as well as providing you with the skills you need to quickly ramp-up and begin developing effectively with Java using the JRE. First, you\'ll learn about working with streams, files, and the file system. You\'ll also learn about I/O topics specific to working with files such open/closing files, detecting end-of-file, and buffering. Next, you\'ll learn about configuring application execution and environments, the features available, and detailed discussions of the PATH and CLASSPATH environment variables that affect the Java runtime. Finally, you\'ll learn about multithreading and concurrency, taking a look at the basic ideas of the thread startup lifecycle along with the more sophisticated executor service. After watching this course, you\'ll be ready to begin working within any of the many environments that rely on Java.",
+"CourseCapacity":"100",
+"ProviderId":"4",
+"TagId":"6"
+},
+
+{
+"CourseName":"Java Fundamentals: The Java Language",
+"CourseDuration":"6h 47m",
+"CourseType":"Intermediate",
+"CourseCost":"6470",
+"CourseContent":"This course provides complete coverage of the Java programming language giving you the strong language foundation required for any Java-based development environment. Whether targeting a client-based, server-side, or Android environment, this course provides you with everything you need to quickly ramp up and become an effective Java programmer.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"6"
+},
+
+{
+"CourseName":"Java Fundamentals - Concurrency with Multithreading",
+"CourseDuration":"2h 4m",
+"CourseType":"Intermediate",
+"CourseCost":"2400",
+"CourseContent":"Today most programs have a concurrent element and knowledge of concurrency is vital. In this course Java Fundamentals - Concurrency with Multithreading, you\'ll gain the skills you need to create and work with such software using the Java libraries. This will also form a basis from which to learn more advanced frameworks. Just because this is a fundamentals course, it doesn\'t mean it\'s solely for Java novices. A wide range of topics will be covered, some fairly advanced, which are appropriate to more seasoned developers. First, you\'ll learn how to make a program multithreaded. Next, you\'ll learn how to safely communicate and share data between the threads and avoid liveness issues such as deadlock. Finally, you\'ll finish this course by looking at thread signaling and thread pools. After completing this module, you should be able to write multithreaded software with ease and be able to confidently discuss the subject in an interview situation.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"6"
+},
+
+{
+"CourseName":"Java Fundamentals: Object-oriented Design",
+"CourseDuration":"1h 36m",
+"CourseType":"Beginner",
+"CourseCost":"1360",
+"CourseContent":"Simply using an OO language like Java does not make your program object oriented. In fact, when used incorrectly, OO-language features can make your program bloated, overly complex, and impossible to maintain. This course, Java Fundamentals: Object-oriented Design, teaches you how to write effective production-quality OO systems by leveraging the basic principles of good OO design. It assumes you know the nuts and bolts of Java, and goes beyond those to teach you how to write effective, production-quality code in Java, or any other OO language. You will learn how to structure your code to be highly maintainable and easy to modify. You\'ll learn about the pitfalls of many common idioms (like getters and setters and too-open subclassing). You\'ll also see the SOLID principles used to solve real-world programming issues as well as see a lot of code that demonstrates the principles. When you\'re done with the class, you\'ll have a solid understanding of good OO structure and principles, and be able to apply those principles to your own work.",
+"CourseCapacity":"100",
+"ProviderId":"7",
+"TagId":"6"
+},
+
+{
+"CourseName":"Java Fundamentals: Collections",
+"CourseDuration":"3h 25m",
+"CourseType":"Intermediate",
+"CourseCost":"3250",
+"CourseContent":"Java is the most in-demand programming language skill amongst software developers, and one of the most important skills for big data specialists. This course, Java Fundamentals: The Core Platform, provides thorough coverage of the core Java platform, giving you the foundation you need to begin developing Java applications using the features and capabilities of the Java Runtime Environment (JRE), as well as providing you with the skills you need to quickly ramp-up and begin developing effectively with Java using the JRE. First, you\'ll learn about working with streams, files, and the file system. You\'ll also learn about I/O topics specific to working with files such open/closing files, detecting end-of-file, and buffering. Next, you\'ll learn about configuring application execution and environments, the features available, and detailed discussions of the PATH and CLASSPATH environment variables that affect the Java runtime. Finally, you\'ll learn about multithreading and concurrency, taking a look at the basic ideas of the thread startup lifecycle along with the more sophisticated executor service. After watching this course, you\'ll be ready to begin working within any of the many environments that rely on Java.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"6"
+},
+
+{
+"CourseName":"Java Web Fundamentals",
+"CourseDuration":"6h 47m",
+"CourseType":"Intermediate",
+"CourseCost":"6470",
+"CourseContent":"Many Java web frameworks, such as Struts, are built on top of the Servlet and JavaServer Page specifications and base libraries. To fully understand how these frameworks operate, and to be able to take full advantage of the facilities they offer, you should understand the foundations such frameworks are built on. This course takes you through building a web application using the base Servlet and JavaServer Page libraries. The course discusses the Model-View-Controller pattern using Servlets as the Controller and JavaServer Pages as the View. You will also learn how to hide complex UI interaction inside tag libraries. The course will show you how it is possible to build a web application using these fundamental technologies, and how other frameworks are built.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"6"
+},
+
+{
+"CourseName":"Java EE: Programming Servlets",
+"CourseDuration":"2h 10m",
+"CourseType":"Beginner",
+"CourseCost":"2100",
+"CourseContent":"Web application development can be made easier by using Java servlets. In this course, Java EE: Programming Servlets, you will begin with a complet overview of servlet architecture and lifecycle. First, you\'ll see the configuration of a Tomcat webserver in Eclipse and you\'ll learn how to read the request and response headers. Next, you\'ll learn how filters are applied to servlets and see many details about tracking session data, web annotations, and globalizing servlets. Finally, you\'ll go over asynchronous programming in servlets, debugging, packing, and deployment of servlets. By the end of this course, you will have a much more complete understanding of how web development using Java servlets works. Software required: Tomcat and Eclipse.",
+"CourseCapacity":"100",
+"ProviderId":"4",
+"TagId":"6"
+},
+
+{
+"CourseName":"Java EE: Java Server Pages",
+"CourseDuration":"2h 4m",
+"CourseType":"Intermediate",
+"CourseCost":"2400",
+"CourseContent":"This course, Java EE: Java Server Pages, provides an end-to-end look at Java Server Pages. You\'ll start from the beginning, learning the fundamentals of JSP, Directives, and Standard Actions. Next, you\'ll learn explore Java Standard Tag Library, Expression Language, Using Custom Tags, and Projects. Finally, you\'ll tackle Project Development using the topics that you have learned in the previous modules. By the end of this course, you will have a solid foundation to get started with Web Development using JSP.",
+"CourseCapacity":"70",
+"ProviderId":"1",
+"TagId":"6"
+},
+
+{
+"CourseName":"Functional Programming With Java",
+"CourseDuration":"2h 40m",
+"CourseType":"Intermediate",
+"CourseCost":"2400",
+"CourseContent":"If you can write object-oriented programs in Java, and you\'d like to write even better Java, then this course is for you. Starting with real business problems, see how concepts from functional programming can help you in Java. From function values to streams, learn the significance of some of Java 8\'s additions -- and get the same benefits in Java 6! This course teaches ways of thinking that help functional programmers write code that doesn\'t break. This course is designed for Java programmers, although any object-oriented developer can benefit from the very clear explanations of concepts. It assumes no familiarity with functional programming. After this course, you\'ll have more design options and ideas, and you\'ll find writing Java more fun than before.",
+"CourseCapacity":"70",
+"ProviderId":"7",
+"TagId":"6"
+},
+
+{
+"CourseName":"Building Your First Game For Android And The PC Using Java",
+"CourseDuration":"2h 30m",
+"CourseType":"Intermediate",
+"CourseCost":"2300",
+"CourseContent":"Have you always dreamed of creating your own Android game, but didn\'t know where to get started? Do you want to learn about Android game programming in a fun and entertaining way, while being insulted by a cranky Space Academy Major? Perhaps you should enroll in the Pluralsight Space Academy. In this course, you will take on the role of a cadet in the illustrious Pluralsight Space Academy. Our drill instructors and teaching staff will school you in game mechanics as they verbally \"encourage\" you in this fast paced Android game programing course. This course will take you through the process of creating a space shooter game in Android step by step using the popular libGDX library. Even if you have no interest in Android, you can still watch the course and build a Java based cross platform game. This course is course 4 in the 4 part series on beginning Android development, so this course will assume you already know some Java, but because this course uses a cross platform game library, knowing much about Android is not required. Even if you haven\'t watched the other 3 courses in this series, you can still watch this course and learn how to create an Android game in Java. So, are you up for the challenge cadet? Are you ready to face the evil Nullapointers in space combat? Do you think you can hack it at the Pluralsight Space Academy?",
+"CourseCapacity":"70",
+"ProviderId":"5",
+"TagId":"5"
+},
+
+{
+"CourseName":"Java Persistence API (JPA) 2.1",
+"CourseDuration":"6h 47m",
+"CourseType":"Advance",
+"CourseCost":"6470",
+"CourseContent":"Applications are made up of business logic, interaction with other systems, user interfaces, and data. Most data manipulated by our Java applications have to be stored in databases, retrieved, and analyzed. In this course, you will learn the principle of object-relational mapping (ORM) and how to use Java Persistence API (JPA) to map your Java objects into relational databases.",
+"CourseCapacity":"50",
+"ProviderId":"1",
+"TagId":"6"
+},
+
+{
+"CourseName":"Reactive Programming in Java 8 With RxJava",
+"CourseDuration":"4h 23m",
+"CourseType":"Intermediate",
+"CourseCost":"4230",
+"CourseContent":"Cloud Computing has changed the landscape for software developers over the last several years. With the expansion in scale of our systems, the expectations of our users has grown in proportion. The level of responsiveness and resiliency required by modern cloud-based applications has strained our standard \"one logical thread\" approach to software. This approach provides a simplification for the software developer, but it can fall short in the face of a cloud based environment and often doesn\'t fully utilize the underlying hardware. This course will cover Reactive Programming and the tenants of the Reactive Manifesto using Java 8, with supplementary material for Java 7. We will examine the use of the RxJava Reactive Extension\'s asynchronous model, and learn to apply it in order to create scalable, responsive, and resilient applications that are well behaved, even while in failure modes.",
+"CourseCapacity":"70",
+"ProviderId":"6",
+"TagId":"9"
+},
+
+{
+"CourseName":"Reactive Programming in Java 8 With RxJava",
+"CourseDuration":"4h 23m",
+"CourseType":"Intermediate",
+"CourseCost":"4230",
+"CourseContent":"Cloud Computing has changed the landscape for software developers over the last several years. With the expansion in scale of our systems, the expectations of our users has grown in proportion. The level of responsiveness and resiliency required by modern cloud-based applications has strained our standard \"one logical thread\" approach to software. This approach provides a simplification for the software developer, but it can fall short in the face of a cloud based environment and often doesn\'t fully utilize the underlying hardware. This course will cover Reactive Programming and the tenants of the Reactive Manifesto using Java 8, with supplementary material for Java 7. We will examine the use of the RxJava Reactive Extension\'s asynchronous model, and learn to apply it in order to create scalable, responsive, and resilient applications that are well behaved, even while in failure modes.",
+"CourseCapacity":"70",
+"ProviderId":"8",
+"TagId":"9"
+},
+
+{
+"CourseName":"Spring Fundamentals",
+"CourseDuration":"2h 2m",
+"CourseType":"Intermediate",
+"CourseCost":"2200",
+"CourseContent":"This course covers all of the fundamentals of Spring. It covers Java Configuration, XML Configuration, Annotation based Configuration, Beans and their Scopes, and Properties.",
+"CourseCapacity":"70",
+"ProviderId":"2",
+"TagId":"1"
+},
+
+{
+"CourseName":"Java Fundamentals: Exception Handling",
+"CourseDuration":"4h 2m",
+"CourseType":"Intermediate",
+"CourseCost":"4200",
+"CourseContent":"This course provides complete coverage of the Java programming language giving you the strong language foundation required for any Java-based development environment. Whether targeting a client-based, server-side, or Android environment, this course provides you with everything you need to quickly ramp up and become an effective Java programmer.",
+"CourseCapacity":"70",
+"ProviderId":"7",
+"TagId":"6"
+},
+
+{
+"CourseName":"Java Fundamentals: Generics",
+"CourseDuration":"3h 12m",
+"CourseType":"Beginner",
+"CourseCost":"3120",
+"CourseContent":"This course covers the most useful parts of Java 8. This update of the Java platform is the biggest of all. It\'s even bigger than Java 5 that saw the introduction of generics. We\'ll begin with lambda expressions and the Stream API, which bring new fundamental patterns to the Java platform. Many problems solved with the Iterator pattern are now solved much more efficiently with the patterns brought by the Stream API. But Java 8 is not only about lambdas, streams and collectors, there is also a new Java Date and Time API which are covered in this course. This API fixes all the flaws of the previous Date/Calendar API and brings new, very useful, concepts and tools. Many new features that bring a functional programming approach have been added to the Collection API. This is also covered in detail. Many more things are covered; little things, scattered here and there in the JDK, like this new StringJoiner class, useful to join strings with a prefix, a postfix, and a separator. JavaFX and Nashorn are also quickly covered, to show the FXML way to describe Graphical User Interfaces, and the new ways to describe JavaFX in Javascript using Nashorn.",
+"CourseCapacity":"100",
+"ProviderId":"1",
+"TagId":"6"
+},
+
+{
+"CourseName":"Java Swing Development Using NetBeans",
+"CourseDuration":"2h 4m",
+"CourseType":"Intermediate",
+"CourseCost":"2500",
+"CourseContent":"Learn how to build a lightweight cross-platform desktop application with Java Swing using the Netbeans IDE. This course is beneficial to the beginner and seasoned programmer alike. You will learn how to use the powerful Netbeans GUI Builder to quickly develop the user interface with little effort, so you can spend your valuable time building the application logic instead. At the conclusion, you will learn to build a fully functional application interacting with a database. If you prefer to program manually, this course will provide a great entry point into Java Swing\'s structure and features.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"11"
+},
+
+{
+"CourseName":"Mastering Java Swing - Part 1",
+"CourseDuration":"2h 2m",
+"CourseType":"Intermediate",
+"CourseCost":"2900",
+"CourseContent":"This course teaches you the basics of Java Swing development. We\'ll get a basic Java desktop program up and running, and along the way we\'ll look at how to architecturally divide your application into separate, easily-maintainable modules, and how to get those modules to communicate with each other. You\'ll also discover how to use the most important Swing widgets.",
+"CourseCapacity":"70",
+"ProviderId":"6",
+"TagId":"11"
+},
+
+{
+"CourseName":"Mastering Java Swing - Part 2",
+"CourseDuration":"1h 40m",
+"CourseType":"Intermediate",
+"CourseCost":"2100",
+"CourseContent":"In this second part of Mastering Java Swing, the focus is on working with data. You\'ll see how to implement a model-view-controller architecture, how to connect to a database using JDBC and transfer data to and from your database and you\'ll learn how to use serialization to save objects to files and how to use preferences to save small amounts of data. We\'ll also take a look at more important Spring widgets."
+"CourseCapacity":"70",
+"ProviderId":"8",
+"TagId":"11"
+},
+
+{
+"CourseName":"Mastering Java Swing - Part 3",
+"CourseDuration":"3h 20m",
+"CourseType":"Intermediate",
+"CourseCost":"4600",
+"CourseContent":"In this third part of the Mastering Java Swing course, we\'ll look at some of the more challenging and advanced Swing user interface widgets, including JTree, progress bars and custom table editors and renderers. We\'ll also look at multithreading in Swing. Plus you\'ll learn how to work with tabbed panes, split panes and draggable toolbars.",
+"CourseCapacity":"70",
+"ProviderId":"1",
+"TagId":"11"
+},
+
+{
+"CourseName":"Mastering Java Swing - Part 4",
+"CourseDuration":"6h 47m",
+"CourseType":"Advance",
+"CourseCost":"7100",
+"CourseContent":"In the final part of Mastering Java Swing, you\'ll learn how to create applets and how to implement basic animation in Swing. We\'ll create a simple applet that allows you to bounce a ball around the screen, exploring the graphics API and learning how to work with mouse listeners and key listeners. We\'ll also take a look at a free visual designer for Swing, setting the look and feel of Swing programs and how to use timers.",
+"CourseCapacity":"50",
+"ProviderId":"2",
+"TagId":"11"
+},
+
+{
+"CourseName":"Creating Your First Spring Boot Application",
+"CourseDuration":"1h 0m",
+"CourseType":"Intermediate",
+"CourseCost":"2300",
+"CourseContent":"This course introduces developers to the Spring Boot framework. Spring Boot is a new way of looking at Spring development and Java applications. Developers will learn the core aspects of Spring Boot by coding through the basics with a sample application. First, is the stand-alone architecture of Spring Boot. No more containers and XML files. Your app runs as a pure Java app and can be deployed in any environment that runs Java, including cloud platforms. Second, developers will learn about the Spring Boot starters. These starters allow quick and easy integration with many Spring technologies and 3rd Party libraries and frameworks. Starters also provide the concept of auto-configuration allowing developers to incorporate concepts such as data sources or REST services. By the end of this course, developers will be able to understand the Spring Boot architecture and how it plugs in and works with core Spring. They will be able to install Spring Boot, configure it, and utilize many of the framework\'s features.",
+"CourseCapacity":"70",
+"ProviderId":"8",
+"TagId":"1"
+},
+
+{
+"CourseName":"Cassandra for Developers",
+"CourseDuration":"2h 2m",
+"CourseType":"Intermediate",
+"CourseCost":"5300",
+"CourseContent":"Starting with a brief history of Cassandra, we use Docker to stand-up a Cassandra cluster that we\'ll use throughout the course. We discuss replication strategies and Cassandra\'s support for \"tunable consistency.\" We introduce CQL along with tables, keyspaces, and common datatypes. We explore primary keys and how they can be made up of both partition keys as well as clustering keys. We\'ll look at approaches for storing time series data in Cassandra. Complex data types, such as sets, lists, maps, tuples, and user defined types are addressed as well. We wrap up with a look at secondary indexes, batches, and lightweight transactions.",
+"CourseCapacity":"70",
+"ProviderId":"3",
+"TagId":"10"
+},
+
+{
+"CourseName":"Introduction to Spring MVC",
+"CourseDuration":"3h 25m",
+"CourseType":"Beginner",
+"CourseCost":"4500",
+"CourseContent":"This course is a basic introduction to Spring MVC. It covers building a basic app, architecture, controllers, views, tags, validation, and ajax within Spring MVC.",
+"CourseCapacity":"100",
+"ProviderId":"2",
+"TagId":"1"
+},
+
+{
+"CourseName":"Building Applications with React and Flux",
+"CourseDuration":"6h 47m",
+"CourseType":"Intermediate",
+"CourseCost":"5500",
+"CourseContent":"React is a library with so much power, but so few strong opinions. So building something significant requires a large number of decisions and work to build the foundation. In Building Applications with React and Redux in ES6, you will learn how to use Redux, React Router, and ES6 to build powerful and fast React applications from the ground up, as well as use Webpack, Babel, ESLint, npm scripts, Mocha, Enzyme. Finally, you will create a rapid feedback development environment that runs linting and tests, transpiles ES6 to ES5, starts up Express as a webserver, opens the application, and hot reloads changes every time you hit save and deploys with a single command. When you\'re finished with this course, you will have a foundational knowledge of React and Redux in ES6 that will help you as you move forward building robust, scalable React applications using a custom, rapid feedback development environment.",
+"CourseCapacity":"70",
+"ProviderId":"5",
+"TagId":"9"
+},
+
+{
+"CourseName":"Building a Full-Stack App with React and Express",
+"CourseDuration":"2h 34m",
+"CourseType":"Intermediate",
+"CourseCost":"6000",
+"CourseContent":"In this course, we\'ll build a full-featured web application which emphasizes lighting-fast load times and live updates. We\'ll learn how to use React.js to build a front-end web application, and use Browserify and Gulp to load the app isomorphically in Node.js. We\'ll also learn how to implement Express for handling HTTP requests, and how to integrate Mongoose with Express for fast and expressive long-term data storage.",
+"CourseCapacity":"70",
+"ProviderId":"1",
+"TagId":"9"
+},
+
+{
+"CourseName":"Styling React Components",
+"CourseDuration":"2h 30m",
+"CourseType":"Intermediate",
+"CourseCost":"3500",
+"CourseContent":"React is a library with so much power, but so few strong opinions. So building something significant requires a large number of decisions and work to build the foundation. In Building Applications with React and Redux in ES6, you will learn how to use Redux, React Router, and ES6 to build powerful and fast React applications from the ground up, as well as use Webpack, Babel, ESLint, npm scripts, Mocha, Enzyme. Finally, you will create a rapid feedback development environment that runs linting and tests, transpiles ES6 to ES5, starts up Express as a webserver, opens the application, and hot reloads changes every time you hit save and deploys with a single command. When you\'re finished with this course, you will have a foundational knowledge of React and Redux in ES6 that will help you as you move forward building robust, scalable React applications using a custom, rapid feedback development environment.",
+"CourseCapacity":"70",
+"ProviderId":"6",
+"TagId":"9"
+},
+
+{
+"CourseName":"React.js on Rails: Building a Full Stack Web App",
+"CourseDuration":"2h 2m",
+"CourseType":"Intermediate",
+"CourseCost":"6000",
+"CourseContent":"A demonstration for building a basic Twitter Clone with React and Flux from Facebook on the frontend, and with Rails as the backend JSON API server. Covering The Flux pattern for Actions, Dispatcher, Stores, and React.js components for Views, and writing all JavaScript with ECMAScript2015 (ES6) syntax, and using Webpack and Babel to transpile JavaScript files and manage their dependencies.",
+"CourseCapacity":"70",
+"ProviderId":"2",
+"TagId":"9"
+},
+
+{
+"CourseName":"Active Directory Programming for Developers",
+"CourseDuration":"2h 4m",
+"CourseType":"Intermediate",
+"CourseCost":"2500",
+"CourseContent":"Active Directory is the employee information store for businesses large and small. However, very few developers understand Active Directory well enough to leverage its capabilities. You have spent hundreds of hours learning SQL, now it’s time to spend two learning how to use Active Directory.",
+"CourseCapacity":"70",
+"ProviderId":"7",
+"TagId":"6"
+},
+
+{
+"CourseName":"Mastering React Testing with Jest",
+"CourseDuration":"3h 25m",
+"CourseType":"Advance",
+"CourseCost":"4300",
+"CourseContent":"Testing web applications is one of the most important parts of the development process and Jest, the testing framework from the makers of React, is one of the newest and most powerful tools for doing so. In this course, we\'ll fully implement a suite Jest tests. The course will begin with a detailed overview of the Jest API and several hands on examples demonstrating how it works. Following that, we\'ll put together a full React application and then test a variety of its components using Jest and React Test Tools. Successful students of this course will be able to understand and apply the concepts of dependency mocking, testing Node modules, and testing asynchronous functionality.",
+"CourseCapacity":"50",
+"ProviderId":"1",
+"TagId":"17"
+},
+
+{
+"CourseName":"Advanced React.js",
+"CourseDuration":"2h 2m",
+"CourseType":"Advance",
+"CourseCost":"5500",
+"CourseContent":"Have you ever wanted to create full-stack Javascript applications with React.js? This course, Advanced React.js, covers many advanced topics and best practices about React.js. First, you\'ll learn how to configure and customize full-stack JavaScript environments. Next, you\'ll explore how to work with async data and manage an application state both internally and externally. Additionally, you\'ll dive into components context API, and learn how to use it with higher order components, pure components, presentational and container components, and all components lifecycle methods. Finally, you\'ll discover performance analysis and optimization, how to use immutable data structures, and how to create production builds for both React.js and Node.js. By the end of this course, you\'ll be able to efficiently use presentational and stateful React components in production.",
+"CourseCapacity":"50",
+"ProviderId":"2",
+"TagId":"9"
+},
+
+{
+"CourseName":"Angular Reactive Forms",
+"CourseDuration":"2h 2m",
+"CourseType":"Advance",
+"CourseCost":"3000",
+"CourseContent":"You can build forms in Angular with a template-driven approach using HTML and data binding, or a Reactive approach by defining the form model and validation in our component code. In this course, Angular Reactive Forms, you\'ll first learn how build Reactive forms. Next you\'ll learn how to validate user-entered data Finally, you\'ll wrap up learning how to save that data using HTTP. By the end of this course, you will have a simple, but fully operational Angular application that includes a Reactive form with full create, read, update, and delete (CRUD) support. You can use this application as a reference for your own development.",
+"CourseCapacity":"50",
+"ProviderId":"3",
+"TagId":"4"
+},
+
+{
+"CourseName":"ASP.NET Core Fundamentals",
+"CourseDuration":"4h 00m",
+"CourseType":"Intermediate",
+"CourseCost":"4000",
+"CourseContent":"ASP.NET Core is a whole new way of developing web-applications with .NET and C#. In this course, Building a Web App with ASP.NET Core, MVC 6, EF Core, and Angular, you\'ll learn how this new change can speed up development of web apps. Next, you\'ll learn how to create web pages using ASP.NET MVC and also how to build API\'s with ASP.NET MVC. Finally, you\'ll learn how to secure your pages and API\'s with ASP.NET identity and also learn how to use AngularJS for client-side development. By the end of this course, you\'ll know how to build your own app with ASP.NET Core.",
+"CourseCapacity":"70",
+"ProviderId":"1",
+"TagId":"8"
+},
+
+{
+"CourseName":"ASP.NET MVC Advanced Topics",
+"CourseDuration":"3h 25m",
+"CourseType":"Advance",
+"CourseCost":"4500",
+"CourseContent":"This course covers more advanced topics in ASP.NET MVC including Ajax, TDD, and best practices.",
+"CourseCapacity":"50",
+"ProviderId":"4",
+"TagId":"8"
+},
+
+{
+"CourseName":"Building an Intelligent System: From Embedded to Cloud",
+"CourseDuration":"2h 42m",
+"CourseType":"Intermediate",
+"CourseCost":"3700",
+"CourseContent":"This course is an advanced journey in the developing phases of an Intelligent System, using Windows Embedded 8.1 Industry and Windows Azure. After a brief introduction to the Internet of Things concept, we\'ll see how a real word intelligent system can be built, starting from requirements and specifications, passing through configuration, services, management, cloud backend, and communication strategies, up to the final deploy.",
+"CourseCapacity":"70",
+"ProviderId":"5",
+"TagId":"7"
+},
+
+{
+"CourseName":"Introduction to Windows Embedded Standard 7",
+"CourseDuration":"2h 4m",
+"CourseType":"Intermediate",
+"CourseCost":"3200",
+"CourseContent":"This course leads from the basic image creation steps using Image Builder Wizard (IBW) and Image Configuration Editor (ICE) into the advanced areas of embedded operating system development. Learn to build systems that are able to withstand harsh environments for dedicated vertical markets and secure them properly. Use embedded enabling features to boot systems directly into a custom shell application leveraging auto-logon, write-protect partitions and suppress/replace any of the Windows typical branding elements to guarantee a truly customized user experience on the device. Another focal point of the course is management and maintenance in factory and field, which help to complete a sound picture of an embedded system\'s life cycle. All course topics are explained using examples derived from real-world projects and are spiced with important tips, tricks and best practices.",
+"CourseCapacity":"70",
+"ProviderId":"6",
+"TagId":"7"
+},
+
+{
+"CourseName":"What Is Programming?",
+"CourseDuration":"2h 30m",
+"CourseType":"Beginner",
+"CourseCost":"2200",
+"CourseContent":"If you want to begin programming, start here. In this fast-paced and entertaining course, What Is Programming, you\'ll learn the fundamentals, the essential ideas, and the concepts for success in any programming language. First, you\'ll learn how to write a computer program and learn how to get the computer to understand it. Next, you\'ll learn all about the syntax - or rules of programming languages. Finally, you\'ll explore how to make real-world programming easier, from libraries to frames, to SDKs and APIs. By the end of this course, you will not only be on your way to becoming a software developer, but will also have learned how to work with them, manage them, or live with one.",
+"CourseCapacity":"100",
+"ProviderId":"1",
+"TagId":"6"
+},
+
+{
+"CourseName":"Android Fundamentals: Content Providers",
+"CourseDuration":"1h 50m",
+"CourseType":"Begineer",
+"CourseCost":"2700",
+"CourseContent":"Android Framework provides developers with four components: Activity, Service, BroadcastReceiver, and ContentProvider. This course, Android Fundamentals: Content Providers, talks about how ContentProvider helps an application manage access to data stored by itself and provides a way to share data securely with other apps. Content providers are the standard interface that connect data in one process with code running in another process. This course starts with overview of ContentProvider and letting you design a structured data storage such as SQlite database from scratch. With the help of ContentProvider you\'ll then perform CRUD operations on SQlite database. Further, you\'ll explore how to share app\'s private data securely with some other apps using ContentProvider. At the end of the course, you\'ll use the concept of Android Permissions to enhance application security.",
+"CourseCapacity":"100",
+"ProviderId":"4",
+"TagId":"5"
+},
+
+{
+"CourseName":"Angular: Getting Started",
+"CourseDuration":"2h 4m",
+"CourseType":"Intermediate",
+"CourseCost":"3500",
+"CourseContent":"Whether you are new to Angular or new to Angular, if you want to create great web apps and stay up to date on the latest app development technologies, you\'re going to want to come up to speed quickly with Angular\'s components, templates, and services. This course provides the basics you need to get started building an Angular application. First, you\'ll learn how to set up your environment, learning about components, templates, and data binding and how they work together. Next, you\'ll discover how to build clean components with strongly-typed code, as well as building nested components and how to use dependency injection to inject the services you build. Finally, you\'ll cover how to retrieve data using HTTP, navigation and routing, and you\'ll revisit the Angular setup process. By the end of this course, you\'ll be up to date on all the latest Angular knowledge and you\'ll be able to use Angular to create great apps in the future.",
+"CourseCapacity":"70",
+"ProviderId":"4",
+"TagId":"4"
+},
+
+{
+"CourseName":"Understanding maven and spring",
+"CourseDuration":"2h 30m",
+"CourseType":"Intermediate",
+"CourseCost":"2500",
+"CourseContent":"You\'ve built your first Spring Boot application. Now what? Itching to learn more? In this course, Spring Boot: Efficient Development, Configuration, and Deployment, you\'ll go beyond the basics and learn how you can do things faster, smarter, easier, and more cloud-enabled. First, you\'ll learn how to get developing faster using Spring Initializr and the IDE support in IntelliJ and Eclipse. Then, you\'ll learn the details behind @EnableAutoConfiguration by writing your own auto configurations. You\'ll also begin to understand the power of using @ConfigurationProperties to externalize your application configuration. Lastly, you\'ll learn how to take advantage of Docker as a cloud-agnostic way of deploying your application to the cloud using Amazon Web Services and the Amazon EC2 Container Service. When you\'re finished with this course, you\'ll have an excellent understanding of how to get started quickly with Spring Boot, how to easily write your own auto configurations, how to easily make use of externalized configuration, and how to deploy your Spring Boot application to the cloud.",
+"CourseCapacity":"70",
+"ProviderId":"1",
+"TagId":"2"
+}
+]

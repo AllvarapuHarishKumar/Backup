@@ -1,0 +1,5 @@
+Manisha headed the meeting and started the presentation for time box 1
+
+We were having lot's of technical limtations as we were new to react technology. 
+Altough we were expected that we may not be able to deliver few things but we managed to do some of them and managed to delivered on time.
+	Our main feature for the time box 

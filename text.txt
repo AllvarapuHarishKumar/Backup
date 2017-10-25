@@ -1,0 +1,149 @@
+	
+	1. Have a button or navigation link which will be open a modal dialog window (not a popup) with a nice animation
+	2. The dialog window must have the following,
+		a. Title
+		b. Text area
+		c. Date
+		d. Drop down with values
+		e. Another drop down which will cascade values based on above selected drop down value. (exzample)
+		f. Cancel & Submit/Save button.
+	3. On cancel it should close the window and go back to the page from where it was opened
+	4. On Submit / Save,
+		a. Have a predefined JSON file in your folder based on the form fields. If values are present, it should display them in the form
+		b. Update the JSON with values entered in the form.
+		c.
+			i. Calculate the difference in days from today and entered date.
+			ii. If the value is negative, display 'future' (after no. of days)
+			iii. If the value is positive, display 'past' (after no. of days)
+		d. All fields are mandatory, highlight the field with appropriate color with a message next to the field.
+		e. Post successful validation, display a flash message 'Appropriate message…' (not alert) for 5 seconds and automatically close the modal window.
+
+		
+		----------
+		<!-- Forget Password Starts-->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog modal-sm">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title">Forget Password</h4>
+        </div>
+        <div class="modal-body">
+          <form class="form" role="form" method="post" action="login" accept-charset="UTF-8" id="login-nav">
+										  <div class="form-group">
+											  <label class="sr-only" for="exampleInputEmail2">Email address</label>
+											    <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Email" required>
+										  </div>
+                        <!--<div class="form-group">
+											  <button type="submit" class="btn btn-primary btn-block">Send OTP</button>
+										  </div>
+                     <hr>
+										  <div class="form-group">
+											  <label class="sr-only" for="exampleInputPassword2">OTP</label>
+											    <input type="text" class="form-control" id="exampleInputPassword2" placeholder="OTP" required>
+                      </div>-->
+                     
+										  <div class="form-group ">
+											  <button type="submit" class="btn btn-primary btn-block">Submit</button>
+										  </div>
+          </form>
+         </div>
+        
+         
+      </div>
+      
+    </div>
+  </div>
+
+  <!-- Forgot Password Ends-->
+  ------------------------------------------------------
+  <MVC:annotation-driven> : Determines that we are using spring MVC
+datasource: we are using it for database connectivity
+
+[ database connectivity
+datasource aney bean lo raastam
+aa database ni migata beans lo nuse chestaam
+no need to write db connections
+in every class]
+
+Beans: they are the objects
+
+SessionFactory is being created only once not multiple times
+ref=datasource means we are refering to the datasource
+
+---------------------------------------------
+Mindtree Ltd
+Chandaka SEZ,
+PO: KIIT Campus
+PIN: 751024
+harishallavarapu.kumar@gmail.com\
+Allavarapu@1995
+
+
+
+1. Bekarar karke
+2. Ek ladki bheegi bhaagi si
+3. Pyar hua ikrar hua
+4. Suhana safar aur yeh mausam
+5. Jeena yahan marna yahan
+6. Mana janab ne pukara nahin
+7. Inteha hogyi 
+8. Yeh jo mohobbat hai
+9. Dilbar mere
+10. Main shayar toh nahin
+11. Dum maaro dum
+12. Tu tu hai wahi 
+13. Badan pe sitare
+14. Jaane jaan dhoondht phir raha
+15. Aao huzoor tumko sitaron me
+16. Pyar humein kis mod pe le aya
+17. O mere dil ke chain
+18. O hansini
+19. Ye sama
+20. Chalte chalte
+
+You will shortly get a call-back from 912653321547 / 912656702202 / 912657146028 / 917940157029 .
+
+
+
+web driver, web elements
+property file
+driver.manage().window().maximize():to inc size;
+
+driver.navigate().to(url); :
+or
+griver.get(url):
+
+navigate to required URL
+---------------------
+
+WebElement uname = driver.findElement(By.id("email"));
+
+-------------------------
+without property file we can also fetch the data and use it
+
+
+sendkeys() : it will send the keys
+.click(): 
+driver.close(): 
+----------------------------------------------------------
+Stick to Core Java script.
+Have basic understanding of the flow 
+avoid inline style while html &
+for js use inline in javascript
+
+have  proper grasp on state and props
+redux is a state management system
+youdontknowjavascript:github repo
+keep react and redux folder structure separate
+Facebook documentation is best document that you can get
+
+Video tutorial by academind:https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/playlists 
+
+https://reacttraining.com/react-router/ :Router
+
+You manage the list of available compilers in the Window -> Preferences -> Java -> Installed JRE's tab.
+
+In the project build path configuration dialog, under the libraries tab, you can delete the entry for "JRE System Library", click on "Add Library" and choose the installed JRE to compile with. Some compilers can be configured to compile at a back-level compiler version. I think that's why you're seeing the addition version options.

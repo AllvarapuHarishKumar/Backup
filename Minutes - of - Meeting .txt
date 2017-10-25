@@ -1,0 +1,16 @@
+We started with showing UI
+
+
+Show cased Ui and discussed about the new tech we are using that is React and material UI. and explained that we are new so we are lagging behind .
+where is about us..is the content on the header fixed or we gonna add anything
+
+
+Any Other Inputs
+
+
+Technical Limitations is the biggest problems that we are facing
+
+Other components such as 
+b
+ 
+we are updating in JIRA
